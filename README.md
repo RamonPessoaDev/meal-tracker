@@ -9,7 +9,7 @@ This project is a Full Stack Project implementation of a meal tracking applicati
 ![project demo GIF](./public/MealTrackerG.gif)
 
 ## Link do Projeto
-[https://meal-tracker-gamma.vercel.app](https://meal-tracker-gamma.vercel.app)
+[https://meal-tracker-alpha.vercel.app](https://meal-tracker-alpha.vercel.app)
 ##
 
 ## Technical Requirements Implemented
